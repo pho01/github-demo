@@ -7,24 +7,40 @@
 
 
 h1{
-  font-size: 4em;color:#2b7196;font-family: "garamond";text-align:left;
-  max-width: 10em
+  font-size: 5em;
+  color:#2b7196;
+  font-family: "garamond";
+  text-align:left;
+  max-width: 50em;
+  margin-bottom: 15%;
 }
 h2{
-  font-size: 13pt;font-family: "futura";letter-spacing: 4px
+  font-size: 13pt;
+  font-family: "futura";
+  letter-spacing: 4px;
+  color: #ff9b0f;
 }
 h3{
-  font-size: 30pt;font-family: "garamond";color: #2b7196;
+  font-size: 30pt;
+  font-family: "garamond";
+  color: #2b7196;
 }
 
 h4{
-  font-size: 13pt;color: #ff9b0f; font-family: "futura"
+  font-size: 11pt;
+  color: #ff9b0f;
+  font-family: "futura";
+  letter-spacing: 3pt;
 }
 h5{
-  font-size: 17pt;color: #fca22d;font-family: "futura";line-height:2em
+  font-size: 14pt;
+  color: #fca22d;
+  font-family: "garamond";
 }
 h6{
   font-size: 10pt;
+  text-align: right;
+  margin-bottom:30em;
 }
 
 table{
